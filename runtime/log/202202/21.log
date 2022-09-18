@@ -1,0 +1,214 @@
+---------------------------------------------------------------
+
+[2022-02-21T21:18:42+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:42+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:43+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:43+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:45+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:46+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:47+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:47+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:55+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:18:59+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:00+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:00+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:01+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:01+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:02+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:02+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:03+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:16+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:17+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:18+08:00] ::1 GET tp5.com/
+[ error ] [64]Cannot redeclare app\index\controller\Index::login()
+---------------------------------------------------------------
+
+[2022-02-21T21:19:50+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:19+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:20+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:26+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:27+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:29+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:30+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:36+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:20:36+08:00] ::1 GET tp5.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST)
+---------------------------------------------------------------
+
+[2022-02-21T21:37:38+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'
+---------------------------------------------------------------
+
+[2022-02-21T21:37:44+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'
+---------------------------------------------------------------
+
+[2022-02-21T21:38:07+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'
+---------------------------------------------------------------
+
+[2022-02-21T21:38:12+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'
+---------------------------------------------------------------
+
+[2022-02-21T21:38:58+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'
+---------------------------------------------------------------
+
+[2022-02-21T21:39:59+08:00] ::1 POST tp5.com/index/index/reply.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010613s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001026s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`UserName` , `Password`) VALUES ('774399166' , '1234567') [ RunTime:0.000423s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:42:44+08:00] ::1 POST tp5.com/index/index/reply.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014429s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000767s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`UserName` , `Password`) VALUES ('774399166' , '1234567') [ RunTime:0.000472s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:42:59+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [8]未定义变量: UserName
+---------------------------------------------------------------
+
+[2022-02-21T21:44:01+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [8]未定义变量: UserName
+---------------------------------------------------------------
+
+[2022-02-21T21:45:11+08:00] ::1 GET tp5.com/index/index/login.html
+[ error ] [0]语法解析错误: syntax error, unexpected '$passwords' (T_VARIABLE)
+---------------------------------------------------------------
+
+[2022-02-21T21:45:33+08:00] ::1 GET tp5.com/index/index/login.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024790s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001127s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( 1=1 ) [ RunTime:0.000344s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:46:36+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023484s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( 1=1 ) [ RunTime:0.000338s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:47:58+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023399s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001239s ]
+[ sql ] [ SQL ] SELECT `Password` FROM `user` WHERE  ( UserName=774399166 ) LIMIT 1 [ RunTime:0.000283s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:48:19+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012458s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000856s ]
+[ sql ] [ SQL ] SELECT `Password` FROM `user` WHERE  ( UserName=774399166 ) LIMIT 1 [ RunTime:0.000404s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:48:25+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025178s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000717s ]
+[ sql ] [ SQL ] SELECT `Password` FROM `user` WHERE  ( UserName=774399166 ) LIMIT 1 [ RunTime:0.000420s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:48:57+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000581s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000560s ]
+[ sql ] [ SQL ] SELECT `Password` FROM `user` WHERE  ( UserName=774399166 ) LIMIT 1 [ RunTime:0.000355s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:51:28+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016254s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001137s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( UserName=774399166 ) [ RunTime:0.000430s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:51:35+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012219s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000801s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( UserName=774399166 ) [ RunTime:0.000359s ]
+---------------------------------------------------------------
+
+[2022-02-21T21:51:56+08:00] ::1 POST tp5.com/index/index/loginpass.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000698s ] mysql:host=127.0.0.1;dbname=echo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( UserName=774399166 ) LIMIT 1 [ RunTime:0.000344s ]

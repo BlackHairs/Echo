@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>滑动拼图验证码</title>
+  <link rel="stylesheet" href="css/sliderImgPuzzle.css">
+  <style>
+    .container {
+      width: 310px;
+      margin: 300px auto;
+    }
+    input {
+      display: block;
+      width: 290px;
+      line-height: 40px;
+      margin: 10px 0;
+      padding: 0 10px;
+      outline: none;
+      border:1px solid #c8cccf;
+      border-radius: 4px;
+      color:#6a6f77;
+    }
+    #msg {
+      width: 100%;
+      line-height: 40px;
+      font-size: 14px;
+      text-align: center;
+    }
+    a:link,a:visited,a:hover,a:active {
+      margin-left: 100px;
+      color: #0366D6;
+    }
+
+  </style>
+</head>
+<body>
+
+<div class="container">
+ 
+  <div id="silderpuzzle" style="position: relative;padding-bottom: 15px;"></div>
+  <div id="msg"></div>
+  <button id="setenable">请先设置控件为可用</button>
+  <button id="setdisabled">设置控件不可用</button>
+   <button id="reflash">刷新控件</button>
+</div>
+<script src="http://www.jq22.com/jquery/jquery-2.1.1.js"></script>
+<script src="js/sliderImgPuzzle.js"></script>
+<script>
+//--------------------滑块拼图验证控件初始化-----
+  var option = {
+                onSuccess: function () {
+                    document.getElementById('msg').innerHTML = '验证成功！'
+                },
+                onFail: cleanMsg,
+                onRefresh: cleanMsg
+     }
+  $("#silderpuzzle").SliderImgPuzzle(option);
+ //--------------------滑块拼图验证控件初始化完成-----           
+ 
+ //--------------------获取控件对象-----
+   var imgPuzzle = $("#silderpuzzle").data("LsSliderImgPuzzle");
+ 
+ //--------------------回调函数
+    function cleanMsg() {
+      alert("回调函数")
+    }
+    
+    $("#setenable").on("click",function(){
+       //--------------------对象提供的enable的方法  
+        imgPuzzle.enablePuzzle(true);
+    })
+     $("#setdisabled").on("click",function(){
+       //--------------------对象提供的enable的方法  
+        imgPuzzle.enablePuzzle(false);
+    })
+     $("#reflash").on("click",function(){
+       //--------------------对象提供的enable的方法  
+        imgPuzzle.reset();
+    })
+</script>
+</body>
+</html>
